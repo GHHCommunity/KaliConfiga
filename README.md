@@ -1,7 +1,6 @@
 # Kaliconfiga
 
-Autonomated basic bug fixer of Kali Linux.
-
+Automated basic bug fixer of Kali Linux ^_^
 
 
 
