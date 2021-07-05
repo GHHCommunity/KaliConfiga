@@ -127,7 +127,7 @@ try:
 
 	elif ver1 == 2:
 		print("")
-		ver2 = int(input(Fore.BLUE + "[Optional]Do you want to install some extra packages(1.Yes/2.No)?=>"))
+		ver2 = int(input(Fore.GREEN + "[" + Fore.BLUE + "Optional" + Fore.GREEN + "]Do you want to install some extra packages(1.Yes/2.No)?=>")
 		if ver2 == 1:
 			install_more_packgages()
 			print(Fore.RED + "[✘]Upgrade not successfull." + Fore.GREEN + "\n[✔]Extra Packages installation successful.")
