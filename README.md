@@ -12,7 +12,7 @@ Autonomated basic bug fixer of Kali Linux.
 
     sudo python3 kaliconfiga.py
 
-    In input section type '1' for yes and '2' for no.[Text input is not valid, number only.] except (Do you want to continue(Y/n)?) here Y or n input is valid>!
+    In input section type '1' for yes and '2' for no.[Text input is not valid, number only.] except (Do you want to continue[Y/n]?) here Y or n input is valid>!
 
 
 
