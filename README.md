@@ -1,6 +1,7 @@
 # Kaliconfiga
 
-Automated basic bug fixer of Kali Linux ^_^
+Autonomated basic bug fixer of Kali Linux.
+
 
 
 
@@ -28,42 +29,27 @@ Automated basic bug fixer of Kali Linux ^_^
          3.Configures pip in python2.7 and pip3 in python3.[Manually to avoid errors]
          
          4.Updates pips
+         
+         5.Installs Bengali language fonts.
 
-         5.Upgrades your total system with new packages of the sources.
+         6.Upgrades your total system with new packages of the sources.
 
-         6.Installs docker inside your system.[This is optional in your want to use it simplily remove # inside docker installtion area and make it executeable.]
+         7.Installs docker inside your system.[This is optional in your want to use it simplily remove # inside docker installtion area and make it executeable.]
 
-         7.All sources are taken from trusted resources and it contains all the packages of kali linux and there are 8 sources available in kaliconfiga.
+         8.All sources are taken from trusted resources and it contains all the packages of kali linux and there are 8 sources available in kaliconfiga.
 
-         8.Extra packages--> 
- 
-                  dnsx
-                  subfinder
-                  nuclei
-                  assetfinder
-                  wayback
-                  meg
-                  gf
-                  gron
-                  amass
-                  webscreenshot
-                  waybackunifier
-                  shodan
-                  censys
-                  goaltdns
-                  subjack
-                  ffuf
-                  hakrawler
-                  knockpy
-                  kxss
-                  dalfox
-                  otxurls 
-                  subjs 
-                  Gau 
-
-This packages will autometicly install from a bash script named 0install.[Optional]
+         9.Installs golang.
+         
+         10.Installs jq
+         
+         11.Configures i386 architecture.
+         
+         12.Installs lolcat
+         
+         13.Installs neofetch
+         
+         14.And adds some extra packages from 0install. 
                        
-
 Why 0install ??
      
                       Its Fast.
@@ -78,10 +64,6 @@ Why 0install ??
      
                       It doesnt use apt to install tools so tools can be downloaded and installed in any distro.
 
-                     Sub tool Name:0install
-                     Sub tool language:bash
-                     Author:Joy Ghosh
-                     Github link:https://github.com/JoyGhoshs/
 
 0install is a sub tool in kaliconfiga, if user wants to install the following packages then they can use it and I'm not the author of 0install.
 
