@@ -20,7 +20,7 @@ Autonomated basic bug fixer of Kali Linux.
 
 
 
-#What it conmtains and does??
+#What it contains and does??
 
          1.Removes your old source list and updates new sources.
 
